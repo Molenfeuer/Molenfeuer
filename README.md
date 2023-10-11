@@ -6,6 +6,8 @@
 - 📫 How to reach me: [LeonsDepot](https://leonsdepot.de/)
 - ⚡ Fun fact: 🦭❤️
 
+![Pixelschiffchen](https://i.imgur.com/GbWrvYw.png)
+
 <!--
 **Molenfeuer/Molenfeuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
