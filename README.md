@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I’m @Molenfeuer  👋
+
+- 🔭 I’m currently working on Mods
+- 🌱 I’m currently learning Java (University) and JavaScript
+- 🤔 I’m looking for help with C++
+- 📫 How to reach me: [LeonsDepot](https://leonsdepot.de/)
+- ⚡ Fun fact: ❤️🚲❤️
+
+![Plowing in the Ukraine](https://github.com/Molenfeuer/Molenfeuer/assets/32037518/d8bbefb5-e7eb-45ed-ba10-a5a22d0191ee)
+_[Plowing in the Ukraine](https://www.getdailyart.com/en/23648/leon-wyczo-kowski/plowing-in-the-ukraine)_
 
 <!--
 **Molenfeuer/Molenfeuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
