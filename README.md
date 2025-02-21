@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on Mods
 - 🌱 I’m currently learning Java (University) and JavaScript
-- 🤔 I’m looking for help with C++
+- 🤔 I’m looking for help with C#
 - 📫 How to reach me: [LeonsDepot](https://leonsdepot.de/)
-- ⚡ Fun fact: ❤️🚲❤️
+- ⚡ Fun fact: 🚲👍
 
-![Plowing in the Ukraine](https://github.com/Molenfeuer/Molenfeuer/assets/32037518/d8bbefb5-e7eb-45ed-ba10-a5a22d0191ee)
+![Plowing_in_the_Ukraine](https://github.com/user-attachments/assets/db3ef60f-8fb7-40c1-a2f3-49bc057791c6)
 _[Plowing in the Ukraine](https://www.getdailyart.com/en/23648/leon-wyczo-kowski/plowing-in-the-ukraine)_
 
 <!--
