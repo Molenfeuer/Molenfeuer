@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on Mods
 - 🌱 I’m currently learning Java (University) and JavaScript
 - 🤔 I’m looking for help with C#
-- 📫 How to reach me: [LeonsDepot](https://leonsdepot.de/) & [Mastodon](https://social.leonsdepot.de/@leon)
 - ⚡ Fun fact: 🚲👍
+- 📫 How to reach me:<br><br><a href="https://social.leonsdepot.de/@leon"><img alt="" style="height: 2em" src="https://github.com/user-attachments/assets/a47ecd17-c456-4e62-9566-7783ad8a59a0"></a>
 
 ![Plowing_in_the_Ukraine](https://github.com/user-attachments/assets/db3ef60f-8fb7-40c1-a2f3-49bc057791c6)
 _[Plowing in the Ukraine](https://www.getdailyart.com/en/23648/leon-wyczo-kowski/plowing-in-the-ukraine)_
