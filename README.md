@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Mods
 - 🌱 I’m currently learning Java (University) and JavaScript
 - 🤔 I’m looking for help with C#
-- 📫 How to reach me: [LeonsDepot](https://leonsdepot.de/)
+- 📫 How to reach me: [LeonsDepot](https://leonsdepot.de/) & [Mastodon](https://social.leonsdepot.de/@leon)
 - ⚡ Fun fact: 🚲👍
 
 ![Plowing_in_the_Ukraine](https://github.com/user-attachments/assets/db3ef60f-8fb7-40c1-a2f3-49bc057791c6)
