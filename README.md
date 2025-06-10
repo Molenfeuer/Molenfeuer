@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java (University) and JavaScript
 - 🤔 I’m looking for help with C#
 - ⚡ Fun fact: 🚲👍
-- 📫 How to reach me:<br><br><a href="https://social.leonsdepot.de/@leon"><img alt="Mastodon" style="height: 2em" src="https://github.com/user-attachments/assets/a47ecd17-c456-4e62-9566-7783ad8a59a0"></a> <a href="https://next.nexusmods.com/profile/Molenfeuer"><img alt="Nexus Mods" style="height: 2em" src="https://github.com/user-attachments/assets/e7803c23-dc9c-42b3-add2-3d33c1c4be07"></a>
+- 📫 How to reach me:<br><br><a href="https://mastodon.social/@leonsdepot"><img alt="Mastodon" style="height: 2em" src="https://github.com/user-attachments/assets/a47ecd17-c456-4e62-9566-7783ad8a59a0"></a> <a href="https://next.nexusmods.com/profile/Molenfeuer"><img alt="Nexus Mods" style="height: 2em" src="https://github.com/user-attachments/assets/e7803c23-dc9c-42b3-add2-3d33c1c4be07"></a>
 
 ![Plowing_in_the_Ukraine](https://github.com/user-attachments/assets/db3ef60f-8fb7-40c1-a2f3-49bc057791c6)
 _[Plowing in the Ukraine](https://www.getdailyart.com/en/23648/leon-wyczo-kowski/plowing-in-the-ukraine)_
